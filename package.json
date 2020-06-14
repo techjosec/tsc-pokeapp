@@ -4,6 +4,7 @@
   "description": "A poke app",
   "main": "src/index.ts",
   "scripts": {
+      "build": "tsc"
   },
   "keywords": [
     "pokeapp"
