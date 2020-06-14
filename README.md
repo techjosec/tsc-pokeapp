@@ -4,7 +4,7 @@ An pokemon application builded with typescript superset
 
 ## Installation
 
-Use the package manager [tsc](https://pip.pypa.io/en/stable/) to run the pokeapp.
+Use the CLI manager [tsc](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) to run the pokeapp.
 
 ```bash
 tsc .
